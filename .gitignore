@@ -1,0 +1,8 @@
+.idea
+*.pyc
+data
+__pycache__
+test time cera.ipynb
+.ipynb_checkpoints
+preprocessing.log
+*.model
