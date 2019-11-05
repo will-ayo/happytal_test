@@ -3,7 +3,7 @@
 Happytal recommender system
 
 ### Goal
-Identifying mislabelled documents using a machine learning algorithm.
+The purpose of the test is to create a small recommender system of the products based on the order history and client feedbacks.
 
 #### Details
 There's no algorithm as this is not the main focus of the test
